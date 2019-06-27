@@ -1,1 +1,1 @@
-#Elearning -System
+This is an e learning system that can be used by staffs within a business organization. It's main purpose is to provide insight to the employees within an organization on the various resources, roles, and any other relevant information that is to be made clear to any employee working within the organization. It is a system that cannot be accessed by people outside the organization or who are non-employees since it requires authentication which is only granted to staffs.
